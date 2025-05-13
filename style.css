@@ -29,7 +29,7 @@ html {
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(211, 162, 88);
+    background-color: rgb(135deg, #6e8efb, #a777e3);
     margin-bottom: 100px;
     user-select: none;
 }
